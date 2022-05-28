@@ -93,9 +93,10 @@ address {
 
 .hero-btn {
     color: var(--hero-text-color);
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.9;    
+    line-height: 1.87;    
     letter-spacing: 0.06em;
     background-color: var(--btn-bgc);
     border-radius: 5px;
@@ -148,7 +149,6 @@ address {
 }
 
 .team-profession {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.03em;
@@ -166,14 +166,12 @@ address {
 
 .footer-address {
     color: var(--white-text-color);
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
 }
 
 .footer-contacts {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -184,9 +182,10 @@ address {
 
 .btn {
     color: var(--secondary-text-color);
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     background-color: var(--secondary-bgc);
@@ -217,6 +216,6 @@ address {
 .card-text {
     color: var(--primary-text-color);
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.87;
     letter-spacing: 0.03em;
 }
